@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340" fill="none">
+  <!-- Browser frame ties the controller to Nayaro's browser gaming platform. -->
+  <rect x="62" y="26" width="356" height="238" rx="14" fill="#fff" stroke="#dce2ea" stroke-width="2"/>
+  <path d="M62 63H418" stroke="#dce2ea" stroke-width="2"/>
+  <circle cx="82" cy="45" r="3" fill="#cfd7e1"/>
+  <circle cx="94" cy="45" r="3" fill="#cfd7e1"/>
+  <circle cx="106" cy="45" r="3" fill="#cfd7e1"/>
+  <rect x="178" y="39" width="124" height="12" rx="6" fill="#f1f4f8"/>
+  <path d="M133 104H347M133 120H297" stroke="#edf1f6" stroke-width="8" stroke-linecap="round"/>
+  <!-- One continuous controller silhouette, with Nayaro's diagonal N cue. -->
+  <path d="M169 146C140 146 121 163 113 190L88 268C81 291 88 308 105 312C119 316 130 307 142 291L163 265H317L338 291C350 307 361 316 375 312C392 308 399 291 392 268L367 190C359 163 340 146 311 146H169Z" fill="#e9efff"/>
+  <path d="M169 136C140 136 121 153 113 180L88 258C81 281 88 298 105 302C119 306 130 297 142 281L163 255H317L338 281C350 297 361 306 375 302C392 298 399 281 392 258L367 180C359 153 340 136 311 136H169Z" fill="#fff" stroke="#111726" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M144 177H164V193H180V213H164V229H144V213H128V193H144V177Z" fill="#111726"/>
+  <circle cx="334" cy="182" r="11" fill="#1f5eff"/>
+  <circle cx="356" cy="204" r="11" fill="#dce6ff" stroke="#1f5eff" stroke-width="2"/>
+  <circle cx="312" cy="204" r="11" fill="#dce6ff" stroke="#1f5eff" stroke-width="2"/>
+  <circle cx="334" cy="226" r="11" fill="#1f5eff"/>
+  <path d="M221 207V170H229L251 195V170H259V207H251L229 182V207H221Z" fill="#111726"/>
+  <path d="M229 170L259 204V207H251L221 173V170H229Z" fill="#1f5eff"/>
+  <rect x="218" y="230" width="17" height="5" rx="2.5" fill="#cfd7e1"/>
+  <rect x="245" y="230" width="17" height="5" rx="2.5" fill="#cfd7e1"/>
+</svg>
